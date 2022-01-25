@@ -34,7 +34,7 @@ Encantada, soy Andrea Méndez y me dedico al mundo de la programación, interesa
 Algunos de los proyectos de los que me siento más orgullosa son:
 
 <a href="https://github.com/AndreaMendez09/TFG_Nevera_Andrea-Alejandra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaMendez09&repo=TFG_Nevera_Andrea-Alejandra&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaMendez09&repo=TFG_Gestion_Alimentaria_Del_Hogar&theme=dracula" />
 </a>
 <a href="https://github.com/AndreaMendez09/Samsung-IA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaMendez09&repo=Samsung-IA&theme=dracula" />
