@@ -44,14 +44,16 @@ Algunos de los proyectos de los que me siento más orgullosa son:
 
 Si te gusta el trabajo que hago, y quieres contactar conmigo, puedes a través de:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrea-mendez-61302816a/)
+[<img src='https://github.com/AndreaMendez09/AndreaMendez/blob/main/In-Blue-Logo.png.original.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrea-mendez-61302816a/)
+[<img src='https://github.com/AndreaMendez09/AndreaMendez/blob/main/kaggle-transparent.svg' alt='kaggle' height='40'>](https://www.kaggle.com/andreamndezsanz/)
 
 
 
 
 
 
-
-Profile photo by <a href="https://unsplash.com/@cashmacanaya?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cash</a> on <a href="https://unsplash.com/t/wallpapers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<H6>
+Profile photo by <a href="https://unsplash.com/@cashmacanaya?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cash</a> on <a href="https://unsplash.com/t/wallpapers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> 
+</H6>
   
 
