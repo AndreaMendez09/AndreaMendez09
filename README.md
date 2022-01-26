@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/AndreaMendez09/AndreaMendez/blob/main/Banner.png)
 
-Encantada, soy Andrea Méndez y me dedico al mundo de la programación, interesada en el mundo de la IA (Inteligencia Artificial) y desarrollo Android.
+Encantada, soy Andrea Méndez y me dedico al mundo de la programación, interesada en IA (Inteligencia Artificial) y desarrollo Android.
 
 ## Trabajando en ello
 - 🔭 Estoy trabajando en... En cuanto a nivel personal estoy trabajando en crear distintos tipos de minijuegos contra una IA, y a nivel profesional me encuentro trabajando en Indra con C# en la creación de un CRM para gestionar accionistas 
