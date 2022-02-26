@@ -40,6 +40,11 @@ Algunos de los proyectos de los que me siento más orgullosa son:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaMendez09&repo=Samsung-IA&theme=dracula" />
 </a>
 
+
+<p>Con que suelo desarrollar:</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaMendez09&exclude_repo=Samsung-IA&layout=compact&locale=es&theme=dracula&include_all_commits=true&hide=html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contactame
 
 Si te gusta el trabajo que hago, y quieres contactar conmigo, puedes a través de:
