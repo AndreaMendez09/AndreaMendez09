@@ -1,6 +1,6 @@
 ## Buenas!! 👋👋
 
-![Banner](https://github.com/AndreaMendez09/AndreaMendez/blob/main/Banner.png)
+![Banner](https://github.com/AndreaMendez09/AndreaMendez/blob/main/Bannerv3.png)
 
 Encantada, soy Andrea Méndez y me dedico al mundo de la programación, interesada en IA (Inteligencia Artificial) y desarrollo Android.
 
