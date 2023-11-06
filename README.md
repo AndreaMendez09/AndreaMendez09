@@ -5,7 +5,7 @@
 Encantada, soy Andrea Méndez y me dedico al mundo de la programación, interesada en IA (Inteligencia Artificial) y desarrollo Android.
 
 ## Trabajando en ello
-- 🔭 Estoy trabajando en... En cuanto a nivel personal estoy trabajando en crear distintos tipos de minijuegos contra una IA, y a nivel profesional me encuentro trabajando en Indra con C# en la creación de un CRM para gestionar accionistas 
+- 🔭 Estoy trabajando en... En cuanto a nivel personal estoy trabajando en Bnext, Correos Prepago, Bono cultural... Entre otros proyectos, trabajamos en Java con microservicios en Micronaut, tenemos una arquitectura hexagonal hibrida, adaptada a nuestras necesidades, manejamos BBDD relacional (Flyway/SQL) y no relacional (Mongo), hacemos Eps adaptados para mobile/web y el erp
 - 🌱 Estoy formandome activamente en Inteligencia Artificial, sobre todo en ML (Machine learning), muchos de mis proyectos aquí presentes utilzian estás tecnologias.
 
 ## Lenguajes que uso
