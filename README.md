@@ -8,7 +8,7 @@ Encantada, soy Andrea Méndez y me dedico al mundo del desarrollo backend, inter
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:andrea.mendez.sanz01@gmail.com)
 
 ## Trabajando en ello
-- 🔭 En cuanto a nivel profesional estoy trabajando en Bnext, Correos Prepago, Bono cultural... Entre otros proyectos, trabajamos en Java con microservicios en Micronaut, tenemos una arquitectura hexagonal hibrida, adaptada a nuestras necesidades, manejamos BBDD relacional (Flyway/SQL) y no relacional (Mongo), hacemos Eps adaptados para mobile/web y el erp
+- 🔭 En cuanto a nivel profesional estoy trabajando en GFT para Mercadona, actualmente en embargos, ausencias y aplicaciones sobre todo para RRHH... Entre otros proyectos, trabajamos en Java con microservicios en Spring Boot, tenemos una arquitectura hexagonal hibrida, adaptada a nuestras necesidades, manejamos BBDD relacional (Flyway/SQL), con JUnit de testing y mockoon para probar las apps end to end junto con front
 - 🌱 Estoy formandome activamente en Inteligencia Artificial, sobre todo en ML (Machine learning), muchos de mis proyectos aquí presentes utilzian estás tecnologias.
 
 ## ⌨ Tecnologías que uso
